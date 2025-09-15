@@ -44,5 +44,4 @@ The script will:
 3.  Print the final evolved gene and its maximized fitness score.
 4.  Display a `matplotlib` plot showing the progression of Intelligence, Strength, Agility, and the overall Fitness Score over the generations.
 
-![Evolution Plot](output.png) 
-*(Note: You will need to run the simulation to generate your own `output.png`)*
+![Evolution Plot]((0,0,0)2.png) 
